@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 # Copyright 2022 -- Xar4
-# for educational purposes only
+# for educational purposes only!
 # Calculator -- a four function calculator commandline tool
 
 import sys
