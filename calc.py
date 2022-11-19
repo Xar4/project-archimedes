@@ -2,9 +2,6 @@
 
 # Copyright 2022 -- Xar4
 # for educational purposes only
-#
-# For use in CS 190: https://github.com/Purdue-CSUSB/CS-190-F2016/
-#
 # Calculator -- a four function calculator commandline tool
 
 import sys
